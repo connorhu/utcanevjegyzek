@@ -4,5 +4,142 @@
             "Cered",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Ak\u00e1cos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Als\u00f3utaspuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Ben\u0151tt, gazos szakasz!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Dank\u00f3",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Fels\u0151utaspuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Fenyves",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "F\u00fczespuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rmask\u00fatpuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Hat\u00e1r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "HU,SK",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Liget",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Miksz\u00e1th",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsafa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Tak\u00e1csh\u00e1zapuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

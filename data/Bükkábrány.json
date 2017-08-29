@@ -4,5 +4,112 @@
             "B\u00fckk\u00e1br\u00e1ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1cfa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Dar\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Gagarin",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e9czy Istv\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "II. Andr\u00e1s",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1ty\u00e1s kir\u00e1ly",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Orvosk\u00f6z",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Puskin",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1lyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Istv\u00e1n kir\u00e1ly",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "tanya",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

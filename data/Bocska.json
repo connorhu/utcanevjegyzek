@@ -4,5 +4,27 @@
             "Bocska",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bocskai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,72 @@
             "Bojt",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Baltaz\u00e1r Dezs\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bethlen G\u00e1bor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bocskai Istv\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hajnal",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1lvin",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Kertalja",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M4",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

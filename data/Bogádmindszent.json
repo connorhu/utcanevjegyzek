@@ -4,5 +4,22 @@
             "Bog\u00e1dmindszent",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arad",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00daj",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

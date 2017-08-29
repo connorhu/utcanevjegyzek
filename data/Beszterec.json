@@ -4,5 +4,62 @@
             "Beszterec",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi Istv\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

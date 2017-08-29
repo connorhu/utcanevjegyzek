@@ -4,5 +4,92 @@
             "B\u00f6rcs",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ak\u00e1c",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9csi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Erzs\u00e9bet",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e9th\u00e1z",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kenderf\u00f6ldi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kerekt\u00f3i",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pilling\u00e9r",
+            "kind": "puszta",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1bca",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6lt\u00e9s",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

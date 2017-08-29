@@ -4,5 +4,17 @@
             "B\u00f3dvalenke",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

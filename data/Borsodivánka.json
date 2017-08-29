@@ -4,5 +4,62 @@
             "Borsodiv\u00e1nka",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "telep",
+            "post_code": 0
+        },
+        {
+            "name": "Ifj\u00fas\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Somogyi B\u00e9la",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

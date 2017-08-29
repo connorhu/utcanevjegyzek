@@ -4,5 +4,27 @@
             "Botykapeterd",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szigetv\u00e1ri",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,37 @@
             "B\u00f6g\u00f6te",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "egykori S\u00e1rv\u00e1r - Zalab\u00e9r-Batyk vas\u00fatvonal t\u00f6lt\u00e9se",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Fazekas P\u00e9ter",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

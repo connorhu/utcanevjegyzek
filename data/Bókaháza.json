@@ -4,5 +4,12 @@
             "B\u00f3kah\u00e1za",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

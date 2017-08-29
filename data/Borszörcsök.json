@@ -4,5 +4,32 @@
             "Borsz\u00f6rcs\u00f6k",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

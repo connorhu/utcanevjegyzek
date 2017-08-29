@@ -4,5 +4,22 @@
             "Chernelh\u00e1zadamonya",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mez\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

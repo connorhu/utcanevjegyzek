@@ -4,5 +4,42 @@
             "Boncodf\u00f6lde",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bagod-Zalal\u00f6v\u0151 ker\u00e9kp\u00e1r\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Panor\u00e1ma",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

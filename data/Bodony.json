@@ -4,5 +4,17 @@
             "Bodony",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Rudolftanyai-\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e9rfy B\u00e9la",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

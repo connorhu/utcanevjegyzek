@@ -1,33 +1,27 @@
 {
-    "codes": {
-        "8080": [
-            "Bodm\u00e9r",
-            null
-        ]
-    },
     "streets": [
         {
-            "name": "Ady Endre",
+            "name": "Budaberke",
             "kind": "utca",
             "post_code": 0
         },
         {
-            "name": "B\u00e9ke",
-            "kind": "utca",
-            "post_code": 0
-        },
-        {
-            "name": "Kinizsi P\u00e1l",
-            "kind": "utca",
-            "post_code": 0
-        },
-        {
-            "name": "Sz\u00e1ri",
+            "name": "G\u00e1lr\u00e9tje",
             "kind": "\u00fat",
             "post_code": 0
         },
         {
-            "name": "Vasv\u00e1ry P\u00e1l",
+            "name": "Helyenk\u00e9nt ben\u0151tt, nehezen j\u00e1rhat\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Partiz\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1s\u00e1ros",
             "kind": "utca",
             "post_code": 0
         }

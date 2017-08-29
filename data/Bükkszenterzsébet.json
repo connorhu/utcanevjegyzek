@@ -4,5 +4,67 @@
             "B\u00fckkszenterzs\u00e9bet",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke u.",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Bem J\u00f3zsef u.",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Damjanich J\u00e1nos u.",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Damjanich J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy u.",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Hosszaki",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila u.",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kert\u00e9sz u.",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Erzs\u00e9bet",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly u.",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

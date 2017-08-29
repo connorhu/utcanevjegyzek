@@ -4,5 +4,22 @@
             "B\u00fckkzs\u00e9rc",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Katalin-v\u00f6lgyi s\u00e1rga \u00f6sv\u00e9ny",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6r\u00f6k",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6r\u00f6k-\u00fat",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

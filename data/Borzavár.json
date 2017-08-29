@@ -4,5 +4,52 @@
             "Borzav\u00e1r",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cuha",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Di\u00f3fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00f3vir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Liget",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

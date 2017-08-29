@@ -4,5 +4,17 @@
             "Bonyh\u00e1dvarasd",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

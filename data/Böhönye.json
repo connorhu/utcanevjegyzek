@@ -4,5 +4,152 @@
             "B\u00f6h\u00f6nye",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "park",
+            "post_code": 0
+        },
+        {
+            "name": "Bem J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bethlen G\u00e1bor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csokonai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00e1vodpuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Di\u00f3fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "k\u00f6r\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Dr. Forb\u00e1th Imre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ill\u00e9s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6lcsey",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Malom",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151hegy",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e9glagy\u00e1r",
+            "kind": "gy\u00e1rtelep",
+            "post_code": 0
+        },
+        {
+            "name": "Terebezd",
+            "kind": "puszta",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1s\u00e1rt\u00e9r",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

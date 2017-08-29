@@ -4,5 +4,12 @@
             "Bolh\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Marcali",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

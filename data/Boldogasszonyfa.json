@@ -4,5 +4,22 @@
             "Boldogasszonyfa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Antalsz\u00e1ll\u00e1s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

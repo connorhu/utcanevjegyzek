@@ -4,5 +4,12 @@
             "Borsodszentgy\u00f6rgy",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Partiz\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,27 @@
             "Bosta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1c",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Bem",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kod\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

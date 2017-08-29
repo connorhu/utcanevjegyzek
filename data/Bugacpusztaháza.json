@@ -4,5 +4,42 @@
             "Bugacpusztah\u00e1za",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bety\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csik\u00f3s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csoboly\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "L\u00e1t\u00f3fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1sztor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e1mad\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Terel\u0151sor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

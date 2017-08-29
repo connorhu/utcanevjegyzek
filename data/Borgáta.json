@@ -4,5 +4,107 @@
             "Borg\u00e1ta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1cos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e1ny\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00f6ngyvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Haraszt",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rsfa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyalja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kir\u00e1lyk\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6k\u00f6rcsin",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Mez\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Muskot\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Napsug\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151hegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1borhely",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tengerszem",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vadvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

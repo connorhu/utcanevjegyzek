@@ -4,5 +4,37 @@
             "Borj\u00e1d",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00f3ly-Vill\u00e1ny ker\u00e9kp\u00e1r\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Damjanich J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }
