@@ -4,5 +4,17 @@
             "Agyagosszerg\u00e9ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "L\u00e9lek",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

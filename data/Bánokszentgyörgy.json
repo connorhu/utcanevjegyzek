@@ -4,5 +4,12 @@
             "B\u00e1nokszentgy\u00f6rgy",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Domb",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

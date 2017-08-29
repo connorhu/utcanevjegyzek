@@ -4,5 +4,72 @@
             "Beloiannisz",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ath\u00e9n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Delcsev",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e1vrildisz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ilektr\u00e1",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Murg\u00e1na",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1parig\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e1r\u00e1fisz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szeptember",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1li-v\u00edz",
+            "kind": "g\u00e1t",
+            "post_code": 0
+        },
+        {
+            "name": "Zalka M\u00e1t\u00e9",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lenin",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        }
+    ]
 }

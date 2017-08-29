@@ -15,7 +15,7 @@ $outputDir = 'data';
 
 $spreadsheet = \PhpOffice\PhpSpreadsheet\IOFactory::load($_SERVER['argv'][1]);
 
-/*
+
 // ezen a sheeten iranyitoszamok es telepules nevek vannak
 // oszlopok: IRSZ	Település	Településrész
 // feltelezi, hogy az elso sor a fejlec a tobbi a tartalom
@@ -27,19 +27,19 @@ for ($row = 1; $row < $highestRow; $row++) {
     $city = $sheet->getCellByColumnAndRow(1, $row)->getValue();
     $cityPart = $sheet->getCellByColumnAndRow(2, $row)->getValue();
     
-    $output_file = $outputDir .'/'. $city .'.json';
+    $outputFile = $outputDir .'/'. $city .'.json';
     
-    if (!is_file($outputDir .'/'. $city .'.json')) {
+    if (!is_file($outputFile)) {
         $data = [];
     }
     else {
-        $data = json_decode(file_get_contents($output_file), true);
+        $data = json_decode(file_get_contents($outputFile), true);
     }
     
     $data['codes'][$postCode] = [$city, $cityPart];
     
     file_put_contents($output_file, json_encode($data, JSON_PRETTY_PRINT));
-} */
+}
 
 // ezen a sheeten budapest iranyitoszamai vannak
 /*
@@ -116,7 +116,7 @@ function processCity($sheet, $isBudapest, $outputFile)
         }
     
         if ($district === false) {
-            $data['district'][] = $streetData;
+            $data['streets'][] = $streetData;
         }
         else {
             $data['district'][$district][] = $streetData;

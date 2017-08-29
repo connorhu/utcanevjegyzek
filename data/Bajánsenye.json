@@ -4,5 +4,37 @@
             "Baj\u00e1nsenye",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fah\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1gv\u00e1ri",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

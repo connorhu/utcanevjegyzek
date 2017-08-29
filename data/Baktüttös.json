@@ -4,5 +4,12 @@
             "Bakt\u00fctt\u00f6s",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "R\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

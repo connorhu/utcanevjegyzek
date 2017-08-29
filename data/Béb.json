@@ -4,5 +4,22 @@
             "B\u00e9b",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Esterh\u00e1zy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

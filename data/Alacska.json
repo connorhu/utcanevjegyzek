@@ -4,5 +4,17 @@
             "Alacska",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Horhos",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e9ly",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

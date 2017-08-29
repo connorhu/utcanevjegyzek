@@ -4,5 +4,22 @@
             "B\u00e1nhorv\u00e1ti",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ifj\u00fas\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6zt\u00e1rsas\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

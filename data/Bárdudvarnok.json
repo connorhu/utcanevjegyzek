@@ -4,5 +4,77 @@
             "B\u00e1rdudvarnok",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e1nya",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e1rdib\u00fckk",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e1rd",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "Csokonai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kaposdada",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "Kaposszentbenedek",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6lcsey",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lip\u00f3tfa",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "lovas\u00edj\u00e1sz versenyp\u00e1lya",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Olajhegy",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "Romos h\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Szendpuszta",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1ci Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

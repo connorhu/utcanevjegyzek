@@ -4,5 +4,32 @@
             "Bakonyszombathely",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Damjanich",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Eszterh\u00e1zy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Temet\u0151",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

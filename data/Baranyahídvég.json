@@ -4,5 +4,12 @@
             "Baranyah\u00eddv\u00e9g",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

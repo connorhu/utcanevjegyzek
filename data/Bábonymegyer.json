@@ -4,5 +4,17 @@
             "B\u00e1bonymegyer",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Istv\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

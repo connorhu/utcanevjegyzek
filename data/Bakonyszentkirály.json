@@ -4,5 +4,97 @@
             "Bakonyszentkir\u00e1ly",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00e9zsma",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u0151zelem",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Iv\u00f3k\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Magt\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "N\u00e1das",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "nehezen j\u00e1rhat\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "N\u00e9metfalu",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3malom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szab\u00f3 Istv\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6r\u00f6k B.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vadas-\u00e1rok (nehezen j\u00e1rhat\u00f3!)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1rhegyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }
