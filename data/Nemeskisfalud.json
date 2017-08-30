@@ -4,5 +4,27 @@
             "Nemeskisfalud",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kis",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Madar\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nefelejcs",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

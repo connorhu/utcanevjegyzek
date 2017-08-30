@@ -4,5 +4,37 @@
             "Nagyr\u00e1kos",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3szer",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Bels\u0151szer",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Cs\u00e1rdaszer",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Devecser",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Nemesszer",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e9gi vas\u00fat",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

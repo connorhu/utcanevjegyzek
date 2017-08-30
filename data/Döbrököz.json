@@ -4,5 +4,92 @@
             "D\u00f6br\u00f6k\u00f6z",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Apor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cser\u00e9nfai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Homokhegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ifjus\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kapos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00fcls\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Munk\u00e1csy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d6reghegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1hy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tisza",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajtelep",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

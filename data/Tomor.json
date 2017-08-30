@@ -4,5 +4,22 @@
             "Tomor",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

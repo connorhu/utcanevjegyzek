@@ -4,5 +4,27 @@
             "Resznek",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

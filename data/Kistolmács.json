@@ -4,5 +4,32 @@
             "Kistolm\u00e1cs",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Koz\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

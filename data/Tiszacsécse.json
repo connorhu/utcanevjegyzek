@@ -4,5 +4,22 @@
             "Tiszacs\u00e9cse",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajsor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

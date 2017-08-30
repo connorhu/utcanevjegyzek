@@ -4,5 +4,82 @@
             "Izs\u00f3falva",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1c",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Egressy B\u00e9ni",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c9p\u00edt\u0151k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Izs\u00f3 Mikl\u00f3s",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1ria t\u00e1r\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Munk\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Patak",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1gv\u00e1ri Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

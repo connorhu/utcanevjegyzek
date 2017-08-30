@@ -4,5 +4,17 @@
             "Mogyor\u00f3ska",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

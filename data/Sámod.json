@@ -4,5 +4,17 @@
             "S\u00e1mod",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

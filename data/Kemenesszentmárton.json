@@ -4,5 +4,27 @@
             "Kemenesszentm\u00e1rton",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "N\u00e9vtelen",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00datt\u00f6r\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

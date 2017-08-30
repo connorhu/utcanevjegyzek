@@ -4,5 +4,22 @@
             "S\u00e1msonh\u00e1za",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e1ll\u00e1ska-v\u00f6lgy",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

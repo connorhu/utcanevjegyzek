@@ -4,5 +4,67 @@
             "R\u00e1bagyarmat",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Fenyvesalja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kisgyarmati",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kocsis L\u00e1szl\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3v\u00e9gi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sport",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Teleki",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00daj",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1ros",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

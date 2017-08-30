@@ -4,5 +4,37 @@
             "Csehb\u00e1nya",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bakony",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "erdei",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kitelep\u00edt\u00e9si eml\u00e9k\u00f6sv\u00e9ny",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "r\u00e9gi kisvas\u00fat nyomvonala",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajtelep",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

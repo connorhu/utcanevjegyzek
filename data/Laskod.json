@@ -4,5 +4,17 @@
             "Laskod",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00f3ricz Zsigmond",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

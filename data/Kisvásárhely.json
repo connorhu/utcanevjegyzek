@@ -4,5 +4,12 @@
             "Kisv\u00e1s\u00e1rhely",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

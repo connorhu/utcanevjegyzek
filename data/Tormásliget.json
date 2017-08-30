@@ -4,5 +4,32 @@
             "Torm\u00e1sliget",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "G\u00e1bor \u00c1ron",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kisfaludy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Liszt Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Wessel\u00e9nyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

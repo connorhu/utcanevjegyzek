@@ -4,5 +4,87 @@
             "Cserh\u00e1tsur\u00e1ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Bem",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Bocskai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Dob\u00f3 Katica",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kinizsi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Sr\u00e9ter J\u00e1nos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Tessedik S\u00e1muel",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Nova",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3hegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zugg\u00f3",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        }
+    ]
 }

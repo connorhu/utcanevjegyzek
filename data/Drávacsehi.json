@@ -4,5 +4,27 @@
             "Dr\u00e1vacsehi",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Dr\u00e1vaszabolcsi g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e9mesi g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza, Fekete-v\u00edz jobb",
+            "kind": "part",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

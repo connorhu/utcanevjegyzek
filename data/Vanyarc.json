@@ -4,5 +4,22 @@
             "Vanyarc",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kun",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Liget",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tab\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Gadna",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1c",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Ben\u0151tt, gazos",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

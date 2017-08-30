@@ -4,5 +4,12 @@
             "Oszl\u00e1r",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "G\u00e1t, csak enged\u00e9llyel",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

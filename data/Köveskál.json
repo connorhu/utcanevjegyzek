@@ -4,5 +4,107 @@
             "K\u00f6vesk\u00e1l",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ben\u0151tt, nehezen j\u00e1rhat\u00f3!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Ben\u0151tt szakasz, nehezen j\u00e1rhat\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Boz\u00f3t",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csikh\u00e1zi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Domb",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Henyei",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ifj\u00fas\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u0151v\u00e1g\u00f3\u00f6rsi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6ves",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Malom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3voda",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0171k",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tob\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vadvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1rosk\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1s\u00e1rt\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vaskapu",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6s Csillag",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

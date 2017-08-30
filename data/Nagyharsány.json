@@ -4,5 +4,47 @@
             "Nagyhars\u00e1ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kikerics",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kol\u00f3nia",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tarn\u00f3czai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tokaj J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1s\u00e1rt\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,37 @@
             "Hidegs\u00e9g",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Csillaghegyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Domb",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fert\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

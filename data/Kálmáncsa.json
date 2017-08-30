@@ -4,5 +4,27 @@
             "K\u00e1lm\u00e1ncsa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lajosh\u00e1zapuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        }
+    ]
 }

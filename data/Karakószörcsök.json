@@ -4,5 +4,12 @@
             "Karak\u00f3sz\u00f6rcs\u00f6k",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

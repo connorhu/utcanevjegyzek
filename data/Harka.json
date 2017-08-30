@@ -4,5 +4,107 @@
             "Harka",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alpesi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Az egykori m\u0171szaki z\u00e1r nyomvonala",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Borosty\u00e1n",
+            "kind": "k\u00f6r\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Erd\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fenyves",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gyop\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hat\u00e1r\u0151r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ibolya",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kereszt\u00fari",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kikerics",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "L\u0151poros",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "L\u0151t\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00e9ki",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nyulas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Patak",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e9t",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Soproni",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sport",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szeder",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151skert",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

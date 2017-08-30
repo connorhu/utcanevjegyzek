@@ -4,5 +4,27 @@
             "Oszk\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Borhord\u00f3",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Katon\u00e1k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3mai Katon\u00e1k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        }
+    ]
 }

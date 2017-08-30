@@ -4,5 +4,12 @@
             "Szente",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Szent Erzs\u00e9bet",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

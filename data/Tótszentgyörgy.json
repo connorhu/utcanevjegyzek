@@ -4,5 +4,12 @@
             "T\u00f3tszentgy\u00f6rgy",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

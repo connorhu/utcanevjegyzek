@@ -4,5 +4,102 @@
             "Velem",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bor\u00f3ka",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "C\u00e1ki",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cikl\u00e1men",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Erd\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fagy\u00f6ngy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u00e9nyes",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Geszteny\u00e9s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Guba",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyv\u00e1mosi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Viola",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

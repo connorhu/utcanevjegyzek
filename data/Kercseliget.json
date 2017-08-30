@@ -4,5 +4,17 @@
             "Kercseliget",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

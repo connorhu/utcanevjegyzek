@@ -4,5 +4,22 @@
             "K\u00e9kk\u00fat",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e9kk\u00fati",
+            "kind": "hegy",
+            "post_code": 0
+        },
+        {
+            "name": "Savany\u00f3 kuti",
+            "kind": "d\u0171l\u0151",
+            "post_code": 0
+        }
+    ]
 }

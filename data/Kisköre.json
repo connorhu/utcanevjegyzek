@@ -4,5 +4,262 @@
             "Kisk\u00f6re",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d vez\u00e9r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Bart\u00f3k B\u00e9la",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Bem J\u00f3zsef",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00fazavir\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Cseng\u0151vir\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Damjanich J\u00e1nos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00e9lib\u00e1b",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Dob\u00f3 Istv\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0171zfa",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e1rdonyi G\u00e9za",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00f3lya",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hajnal",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Heged\u0171s",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Honv\u00e9d",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Horg\u00e1sz",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi J\u00e1nos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "II. R\u00e1k\u00f3czi Ferenc",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kinizsi P\u00e1l",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Klapka Gy\u00f6rgy",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kod\u00e1ly Zolt\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6lcsey Ferenc",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Lehel vez\u00e9r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1jus 1.",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1ty\u00e1s Kir\u00e1ly",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Napsug\u00e1r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Plat\u00e1n",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "Posta",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Strand",
+            "kind": "s\u00e9t\u00e1ny",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi Istv\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Term\u00e1l",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Th\u00f6k\u00f6ly Imre",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Tisza",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Tiszavir\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "\u00daj\u00e9let",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajvil\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Vak Botty\u00e1n J\u00e1nos",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Vas",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edzililiom",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edzl\u00e9pcs\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

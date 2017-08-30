@@ -4,5 +4,32 @@
             "Zalas\u00e1rszeg",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Anna",
+            "kind": "hegy",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1nn\u00e1r tet\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

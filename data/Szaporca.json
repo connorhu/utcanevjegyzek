@@ -4,5 +4,47 @@
             "Szaporca",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "C\u00fani duzzaszt\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e9mesi g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza, Fekete-v\u00edz bal",
+            "kind": "part",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e9mesi g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza, Fekete-v\u00edz jobb",
+            "kind": "part",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e9mesi g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza, P\u00e9csi-v\u00edz bal",
+            "kind": "part",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Majl\u00e1thpusztai g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e9rtan\u00fak",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

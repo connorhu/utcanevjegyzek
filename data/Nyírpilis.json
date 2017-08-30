@@ -4,5 +4,12 @@
             "Ny\u00edrpilis",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "K\u00e1rolyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,57 @@
             "Szal\u00e1nta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bar\u00e1ts\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bem",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Damjanich",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Eszter\u00e1gi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Eszter\u00e1gpuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Ifj\u00fas\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "N\u00e9meti",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi Mikl\u00f3s",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

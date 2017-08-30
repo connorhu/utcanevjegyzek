@@ -4,5 +4,52 @@
             "Pula",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G. nyilad\u00e9k",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Gr\u00f3fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Halast\u00f3",
+            "kind": "g\u00e1t",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1romlyuk\u00fa h\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "H nyilad\u00e9k",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kabhegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kis",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Knoll-linia",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

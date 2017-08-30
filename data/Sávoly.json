@@ -4,5 +4,17 @@
             "S\u00e1voly",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Balatonring",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

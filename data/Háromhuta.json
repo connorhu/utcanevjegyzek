@@ -4,5 +4,27 @@
             "H\u00e1romhuta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Denev\u00e9r-\u00f6sv\u00e9ny",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kid\u0151lt f\u00e1k!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

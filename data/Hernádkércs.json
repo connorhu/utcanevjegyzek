@@ -4,5 +4,22 @@
             "Hern\u00e1dk\u00e9rcs",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Halmaji",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

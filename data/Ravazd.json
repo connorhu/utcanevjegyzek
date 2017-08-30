@@ -4,5 +4,62 @@
             "Ravazd",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3telek",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lehel",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lukashorog",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u0150rhegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Orsz\u00e1g\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Paphegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151shegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

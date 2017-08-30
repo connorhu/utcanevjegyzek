@@ -4,5 +4,12 @@
             "Iszk\u00e1z",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

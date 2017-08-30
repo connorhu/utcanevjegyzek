@@ -4,5 +4,37 @@
             "Hencida",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "a t\u00f6lt\u00e9s alatt",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M4",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Puskin",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

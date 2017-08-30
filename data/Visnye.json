@@ -4,5 +4,17 @@
             "Visnye",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rserd\u0151",
+            "kind": "telep",
+            "post_code": 0
+        }
+    ]
 }

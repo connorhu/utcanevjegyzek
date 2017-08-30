@@ -4,5 +4,42 @@
             "Hidegk\u00fat",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e1z",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Harang",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hidegki XC",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Hossz\u00fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ifj\u00fas\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Patak",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

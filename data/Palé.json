@@ -4,5 +4,12 @@
             "Pal\u00e9",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

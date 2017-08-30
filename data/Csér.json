@@ -4,5 +4,12 @@
             "Cs\u00e9r",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

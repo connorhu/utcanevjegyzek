@@ -4,5 +4,52 @@
             "H\u00e1rsk\u00fat",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Erd\u00e9szeti",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kinizsi P\u00e1l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsafa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szemere L\u00e1szl\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Veszpr\u00e9mi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Veszveres-l\u00e9nia",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

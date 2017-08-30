@@ -4,5 +4,17 @@
             "Kiskorp\u00e1d",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

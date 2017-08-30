@@ -4,5 +4,27 @@
             "Raposka",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Major",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151hegy",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

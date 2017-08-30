@@ -1,0 +1,1579 @@
+{
+    "streets": [
+        {
+            "name": "\u00c1chim Andr\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ady",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ak\u00e1cfa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Almafa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Almafa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1lmos vez\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Amur",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Angolna",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Anik\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Arany",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rok",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d fejedelem",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rv\u00e1cska",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Asztalos S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Avar",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Babits",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bagoly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Balassi B\u00e1lint",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Balatoni",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Balin",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Barab\u00e1s Mikl\u00f3s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bart\u00f3k B\u00e9la",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bats\u00e1nyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9la",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bem",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Benczur Gyula",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Bercs\u00e9nyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ri Balog \u00c1d\u00e1m",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Berzsenyi D\u00e1niel",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bethlen G\u00e1bor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bikav\u00f6lgyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00f3n\u00e9 K\u00e1lm\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Botond",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bronz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Budai Nagy Antal",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Camping",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "C\u00e1pa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cethal",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Chernel Istv\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cholnoky Jen\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cinege",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csend",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cseng\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cserje",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cs\u00f3k Istv\u00e1n",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Csokonai Vit\u00e9z Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csongor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csontv\u00e1ry",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Csuka",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00e1lia",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Dank\u00f3 Pista",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Daru",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Delfin",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Derkovits Gyula",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00e9v\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Di\u00e1k",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Di\u00f3fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Dob\u00f3 Istv\u00e1n",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Dob\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Domb",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Egry J\u00f3zsef",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Elzamajor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "E\u00f6tv\u00f6s",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Erkel Ferenc",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Erkel Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Esze Tam\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ez\u00fcst",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Felh\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Feny\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u00e9szek",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fogas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fogoly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u00f3ka",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u00fcrd\u0151",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "F\u00fcrj",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u00fcz\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e1bor \u00c1ron",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gall\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e1rdonyi G\u00e9za",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e1rdonyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gazd\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gesztenye",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e9za fejedelem",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e9za",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00f3lya",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00f6ngy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00f6ngyvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00f6rgy Oszk\u00e1r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Hal\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Harang",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Harcsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rsfa",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rsfa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hat\u00e1r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Hat\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hatty\u00fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e9ja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Herman Ott\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hinta",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Holdf\u00e9ny",
+            "kind": "s\u00e9t\u00e1ny",
+            "post_code": 0
+        },
+        {
+            "name": "Horgony",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Horog",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00f3vir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ibolya",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "III.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "II.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ipar",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "I.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "IV.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "IX.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00e1zmin",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kadarka",
+            "kind": "d\u0171l\u0151",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1ka",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1r\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Karvaly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Katica",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Katona J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kazinczy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kecsege",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kem\u00e9ny Zsigmond",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Keszeg",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00edgy\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kinizsi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kisfaludy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f3csag",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kod\u00e1ly Zolt\u00e1n",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6lcsey Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u0151r\u00f6si Csoma S\u00e1ndor",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ladik",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lazac",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lehel vez\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "L\u00e9vai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lev\u00e9l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Liliom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lomb",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "L\u00f3r\u00e1nt P\u00e9ter",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lotz K\u00e1roly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mack\u00f3",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Madar\u00e1sz Viktor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1jus 1.",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1jus 1.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1lna",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mandula",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Margar\u00e9ta",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1rv\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Marx Gy\u00f6rgy",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Matr\u00f3z",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1ty\u00e1s Kir\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Meder",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Meggyfa",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e9sz\u00e1ros L\u00e1z\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mez\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Miksz\u00e1th",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mogyor\u00f3",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Moha",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00f3ricz Zsigmond",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Munk\u00e1csy Mih\u00e1ly",
+            "kind": "k\u00f6r\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Munk\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Musk\u00e1tli",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "N\u00e1dasdy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "N\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nagy G\u00e1sp\u00e1r",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Napf\u00e9ny S\u00e9t\u00e1ny",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Napf\u00fcrd\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Naphal",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Napsug\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nefelejcs",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00edl",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00edrfa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Orgon\u00e1s",
+            "kind": "d\u0171l\u0151",
+            "post_code": 0
+        },
+        {
+            "name": "Orgona",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u0150rh\u00e1z",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u0150sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3voda",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pa\u00e1l L\u00e1szl\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pacsirta",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1fr\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pajt\u00e1s",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1k\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Peregovits K\u00e1roly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pipacs",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pisztr\u00e1ng",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Polip",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ponty",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Posta",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00fcnk\u00f6sdi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Radn\u00f3ti Mikl\u00f3s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1ja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Reviczky",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Reviczky ;Hat\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Rezeda",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Rig\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sell\u0151",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Semmelweis Ign\u00e1c",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sigray Istv\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sikl\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sir\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00f3lyom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Strand",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00fcll\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabadka",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szab\u00f3 L\u00f6rinc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szam\u00f3ca",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e1nt\u00f3 Kov\u00e1cs",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e1rcsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e1zszorsz\u00e9p",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szeder",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szegf\u0171",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9kely Bertalan",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szemere Bertalan",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Istv\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szigony",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szinyei Merse P\u00e1l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szirom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sziv\u00e1rv\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00edv",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00f6cske",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szondy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151nyi Istv\u00e1n",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00f6vetkezetek",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00fanyog",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tam\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1tika",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tavasz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tavir\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Teleki S\u00e1muel",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e9l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Th\u00f6k\u00f6ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00edm\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f3b\u00edr\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Toldi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6lgyfa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tompa",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Tompa Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f3part",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Top\u00e1z",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6r\u00f6k B\u00e1lint",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f3",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6vis",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tulip\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00fcnde",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Turul",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tutaj",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dcd\u00fcl\u0151k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajvid\u00e9k",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vad\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vajda J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vajky Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vak Botty\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Varj\u00fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Varsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vasv\u00e1ri",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e9nusz",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Ver\u00e9b",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vidovszky B\u00e9la",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vidra",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "VIII.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "VII.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Viktor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Viola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "VI.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edz\u00e1rok",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edz\u00e1rok",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Viza",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "XIII.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "XII.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "XI.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "XIV.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "X.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "XV.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zichy Mih\u00e1ly",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Zombor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zsin\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
+}

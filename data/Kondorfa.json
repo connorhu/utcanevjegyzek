@@ -4,5 +4,37 @@
             "Kondorfa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alv\u00e9g",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Alv\u00e9g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151v\u00e9g",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151v\u00e9g \/ Alv\u00e9g",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151v\u00e9g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegy",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

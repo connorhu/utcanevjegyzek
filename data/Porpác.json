@@ -4,5 +4,37 @@
             "Porp\u00e1c",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Cs\u00f3kak\u0151",
+            "kind": "major",
+            "post_code": 0
+        },
+        {
+            "name": "Dar\u00e1zsoki felj\u00e1r\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,12 @@
             "Pirt\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

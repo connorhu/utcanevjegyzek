@@ -4,5 +4,42 @@
             "Tompal\u00e1dony",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "D\u00f3zsa",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ifj\u00fas\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Soproni",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Soproni \u00fati pavilonsor",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

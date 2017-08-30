@@ -4,5 +4,37 @@
             "Pusztamiske",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hat\u00e1rv\u00f6lgypuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szab\u00f3 G\u00e1sp\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

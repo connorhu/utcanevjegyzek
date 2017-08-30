@@ -4,5 +4,72 @@
             "Gy\u00e9k\u00e9nyes",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bej\u00e1rati \u00fat a h\u00e1ts\u00f3 tavakhoz",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "C\/9. szektor mag\u00e1n\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Dank\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Horg\u00e1sztanya",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lank\u00f3cpuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151hegy",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

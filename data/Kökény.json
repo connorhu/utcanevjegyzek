@@ -4,5 +4,62 @@
             "K\u00f6k\u00e9ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Erd\u0151sz\u00e9l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fels\u0151hegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fels\u0151k\u00f6z",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Fels\u0151",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Guvno",
+            "kind": "d\u0171l\u0151",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Temet\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

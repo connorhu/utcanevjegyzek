@@ -4,5 +4,82 @@
             "Csesznek",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Csesznek-K\u0151\u00e1rok szurdok",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Farkashegyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u0151mos\u00f3 szurdok",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Ostroml\u00f3k \u00fatja via ferrata (B\/C)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Sarok",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1los Zolt\u00e1n eml\u00e9k\u00fat (E)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Tarack",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Vadas-\u00e1rok",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Vadas-\u00e1rok (nehezen j\u00e1rhat\u00f3!)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1rpanor\u00e1ma via ferrata \u00fat (C\/D)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Wathay Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

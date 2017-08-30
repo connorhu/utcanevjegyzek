@@ -4,5 +4,12 @@
             "Kir\u00e1ld",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3telep",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

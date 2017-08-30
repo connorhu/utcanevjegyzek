@@ -4,5 +4,12 @@
             "M\u00e9rk",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Hunyadi J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

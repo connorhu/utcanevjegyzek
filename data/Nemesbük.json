@@ -4,5 +4,77 @@
             "Nemesb\u00fck",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1cvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Alkot\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1prilis",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cs\u00e1rdaalja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fenyvesi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegykapu",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "L\u00f3hegyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1rt\u00edrok",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szederf\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151hegyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,32 @@
             "Porva",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alkotm\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u0151rishegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1los-k\u00f6z",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1pai",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

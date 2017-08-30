@@ -4,5 +4,17 @@
             "Egyh\u00e1zasdengeleg",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sport",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

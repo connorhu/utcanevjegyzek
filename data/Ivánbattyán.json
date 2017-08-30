@@ -4,5 +4,27 @@
             "Iv\u00e1nbatty\u00e1n",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Damjanich",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1gv\u00e1ri",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

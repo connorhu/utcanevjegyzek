@@ -4,5 +4,17 @@
             "K\u00e1ra",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "K\u00f6lcsey Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,177 @@
             "Rezi",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3k\u00f6vesi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Ambrus Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bem J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Feh\u00e9rsz\u0151l\u0151ki",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rs\u00e1gyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rsfa",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "Hat\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi M\u00e1ty\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1polnai",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1polna",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "Kicsih\u00e1zi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kiscomai",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kozmav\u00f6lgyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Mohosi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Nagycomai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3hegy",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Orgon\u00e1si",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Rig\u00f3si",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00fcmegi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Luk\u00e1cs",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tikerit\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vil\u00e1gos v\u00e1ri",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,12 @@
             "P\u00f6l\u00f6ske",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

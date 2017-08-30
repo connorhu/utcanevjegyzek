@@ -4,5 +4,92 @@
             "M\u00e1riak\u00e1lnok",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Csillag",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Duna",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "Fl\u00f3ri\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hal\u00e1sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Harangvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rsfa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1polna",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Kert",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1rai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mosonmagyar\u00f3v\u00e1r - M\u00e1riak\u00e1lnok ker\u00e9kp\u00e1r\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

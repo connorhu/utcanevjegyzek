@@ -4,5 +4,12 @@
             "P\u00e1lfiszeg",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

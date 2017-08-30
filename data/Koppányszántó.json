@@ -4,5 +4,12 @@
             "Kopp\u00e1nysz\u00e1nt\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "K\u00e1lv\u00e1ria",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,12 @@
             "Hevesvezek\u00e9ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "R\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

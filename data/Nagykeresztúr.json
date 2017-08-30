@@ -4,5 +4,12 @@
             "Nagykereszt\u00far",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kast\u00e9lykert",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

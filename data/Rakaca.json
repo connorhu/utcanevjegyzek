@@ -4,5 +4,17 @@
             "Rakaca",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "(temet\u0151)",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

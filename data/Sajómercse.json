@@ -4,5 +4,17 @@
             "Saj\u00f3mercse",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pincesor",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

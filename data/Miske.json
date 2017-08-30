@@ -4,5 +4,27 @@
             "Miske",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Haj\u00f3si",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Imre",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

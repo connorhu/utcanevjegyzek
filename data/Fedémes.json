@@ -4,5 +4,17 @@
             "Fed\u00e9mes",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

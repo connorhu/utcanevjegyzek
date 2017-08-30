@@ -4,5 +4,22 @@
             "Hegyszentm\u00e1rton",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Egerszeg",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kolozsv\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Monyor\u00f3sd",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

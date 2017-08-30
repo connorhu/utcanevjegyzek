@@ -4,5 +4,27 @@
             "Ipolytarn\u00f3c",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Fenyves",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Geol\u00f3giai \u00f6sv\u00e9ny",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Hat\u00e1r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Lombs\u00e9t\u00e1ny",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

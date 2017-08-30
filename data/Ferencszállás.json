@@ -4,5 +4,32 @@
             "Ferencsz\u00e1ll\u00e1s",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szegedi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6lt\u00e9s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajtelep",
+            "kind": "sor",
+            "post_code": 0
+        }
+    ]
 }

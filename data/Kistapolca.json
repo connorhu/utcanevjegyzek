@@ -4,5 +4,22 @@
             "Kistapolca",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Barta Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

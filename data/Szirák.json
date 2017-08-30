@@ -4,5 +4,67 @@
             "Szir\u00e1k",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Csurg\u00f3",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Dengelei",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kert\u00e9sz",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kisb\u00e1gyoni",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Malom",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1tra",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3th Johanna",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Teleki",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

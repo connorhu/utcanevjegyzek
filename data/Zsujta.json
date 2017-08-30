@@ -4,5 +4,22 @@
             "Zsujta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00f6nd",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hern\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

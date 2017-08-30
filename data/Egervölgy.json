@@ -4,5 +4,47 @@
             "Egerv\u00f6lgy",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bem J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1m\u00e1n Kat\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajtelep",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

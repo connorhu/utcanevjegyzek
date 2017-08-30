@@ -4,5 +4,12 @@
             "Mek\u00e9nyes",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

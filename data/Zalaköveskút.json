@@ -4,5 +4,17 @@
             "Zalak\u00f6vesk\u00fat",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

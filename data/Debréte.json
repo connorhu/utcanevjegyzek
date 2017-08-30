@@ -4,5 +4,12 @@
             "Debr\u00e9te",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

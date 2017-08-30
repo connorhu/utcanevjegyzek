@@ -4,5 +4,12 @@
             "Kisb\u00e1gyon",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0171zfa",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

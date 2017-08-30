@@ -4,5 +4,12 @@
             "Galgaguta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth Lajos",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

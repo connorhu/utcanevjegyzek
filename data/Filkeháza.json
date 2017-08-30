@@ -4,5 +4,12 @@
             "Filkeh\u00e1za",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "R\u00f3zsa Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

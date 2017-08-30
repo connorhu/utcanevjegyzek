@@ -4,5 +4,62 @@
             "G\u00e9rce",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rp\u00e1d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "telep",
+            "post_code": 0
+        },
+        {
+            "name": "egykori S\u00e1rv\u00e1r - Zalab\u00e9r-Batyk vas\u00fatvonal t\u00f6lt\u00e9se",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Egykori S\u00e1rv\u00e1r - Zalab\u00e9r-Batyk vas\u00fatvonal t\u00f6lt\u00e9se",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "telep",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00fajhegy",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

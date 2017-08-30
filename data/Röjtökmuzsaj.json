@@ -4,5 +4,12 @@
             "R\u00f6jt\u00f6kmuzsaj",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "R\u00f6jt\u00f6ki",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

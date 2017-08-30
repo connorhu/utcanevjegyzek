@@ -4,5 +4,57 @@
             "S\u00e1torhely",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Brodarics",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "II. Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Kanizsai Dorottya",
+            "kind": "lak\u00f3telep",
+            "post_code": 0
+        },
+        {
+            "name": "Park",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Per\u00e9nyi Imre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tomori",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1rudvar",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

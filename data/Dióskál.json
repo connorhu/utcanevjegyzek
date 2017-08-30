@@ -4,5 +4,22 @@
             "Di\u00f3sk\u00e1l",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Di\u00f3s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3temet\u0151",
+            "kind": "\u00fatja",
+            "post_code": 0
+        }
+    ]
 }

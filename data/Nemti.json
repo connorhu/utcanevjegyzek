@@ -4,5 +4,17 @@
             "Nemti",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "telep",
+            "post_code": 0
+        },
+        {
+            "name": "Szurdoki",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

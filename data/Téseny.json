@@ -4,5 +4,12 @@
             "T\u00e9seny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

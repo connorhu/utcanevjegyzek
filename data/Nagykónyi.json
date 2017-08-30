@@ -4,5 +4,12 @@
             "Nagyk\u00f3nyi",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Nagy",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

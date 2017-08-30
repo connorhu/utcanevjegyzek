@@ -4,5 +4,12 @@
             "Rinya\u00fajn\u00e9p",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "G\u00e1bor Andor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,32 @@
             "Old",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Dank\u00f3 Pista",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Eperjespuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u0171r\u0171spusztai g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

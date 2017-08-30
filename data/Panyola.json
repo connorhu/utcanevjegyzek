@@ -4,5 +4,32 @@
             "Panyola",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Csonkav\u00e9g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mez\u0151v\u00e9g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szamosv\u00e9g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szombathelyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Veszpr\u00e9mi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

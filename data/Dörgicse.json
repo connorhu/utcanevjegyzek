@@ -4,5 +4,32 @@
             "D\u00f6rgicse",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Barokk k\u0151h\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Bece",
+            "kind": "d\u0171l\u0151",
+            "post_code": 0
+        },
+        {
+            "name": "Di\u00f3fa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gernyei",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Temet\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

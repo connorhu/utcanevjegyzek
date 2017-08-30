@@ -4,5 +4,42 @@
             "Vashossz\u00fafalu",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "egykori S\u00e1rv\u00e1r - Zalab\u00e9r-Batyk vas\u00fatvonal",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "egykori S\u00e1rv\u00e1r - Zalab\u00e9r-Batyk vas\u00fatvonal t\u00f6lt\u00e9se",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3dorfai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

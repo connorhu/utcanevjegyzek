@@ -4,5 +4,12 @@
             "Nagyszak\u00e1csi",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "nehezen j\u00e1rhat\u00f3",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

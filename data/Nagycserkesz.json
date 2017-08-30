@@ -4,5 +4,137 @@
             "Nagycserkesz",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e1jibokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e1nfibokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Belfibokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Cig\u00e1nybokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Ferencbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00f6r\u00f6gk\u00fat \u00e9szak",
+            "kind": "tanya",
+            "post_code": 0
+        },
+        {
+            "name": "Halmosbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Horv\u00e1thbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lakatosbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Magyarbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Mark\u00f3bokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "N\u00e1dasibokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00faposhalom",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tam\u00e1sbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsicsbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Toldi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vadasbokor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Vasv\u00e1ri P\u00e1l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Z\u0151ldbokor",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

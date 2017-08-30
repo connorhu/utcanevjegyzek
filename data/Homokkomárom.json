@@ -4,5 +4,12 @@
             "Homokkom\u00e1rom",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

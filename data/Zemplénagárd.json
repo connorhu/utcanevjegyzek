@@ -4,5 +4,77 @@
             "Zempl\u00e9nag\u00e1rd",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Darvas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "El\u00e1gaz\u00e1s-Zempl\u00e9nag\u00e1rd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Honv\u00e9d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "L\u00e1nyv\u00e1ri",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nyilaki",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pongr\u00e1cz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Simondomb",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tuzs\u00e9ri",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

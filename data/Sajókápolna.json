@@ -4,5 +4,27 @@
             "Saj\u00f3k\u00e1polna",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Egressy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nehezen j\u00e1rhat\u00f3!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edzmos\u00e1s",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

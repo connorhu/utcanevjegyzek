@@ -4,5 +4,87 @@
             "Sirok",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Borics P\u00e1l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bornemissza Gergely",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Breakneck (for Sledding)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Darn\u00f3i",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Dob\u00f3 Istv\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00e1ri",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00edrjes",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0151l\u0151-domb",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Verpel\u00e9ti",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Verpel\u00e9ti",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

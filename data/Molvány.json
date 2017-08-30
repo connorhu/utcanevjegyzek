@@ -4,5 +4,17 @@
             "Molv\u00e1ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00f6r\u00f6sgali",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,42 @@
             "Csatasz\u00f6g",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1cfa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00e9lib\u00e1b",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Keskeny",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Sug\u00e1r",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Szebb \u00c9let",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00edv",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,17 @@
             "Szenteg\u00e1t",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alm\u00e1s",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Iskola",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

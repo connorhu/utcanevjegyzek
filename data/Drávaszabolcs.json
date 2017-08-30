@@ -4,5 +4,62 @@
             "Dr\u00e1vaszabolcs",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "ADR",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "All pasports car | Bus",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rv\u00e1cska",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Dr\u00e1vaszabolcsi g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Dr\u00e1va",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "EU;EEA;CH | All passports car",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Fenyves",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "HGV",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6zt\u00e1rsas\u00e1g",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Sportp\u00e1lya",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Cs\u00e9m",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Klapka Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00e1rf\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

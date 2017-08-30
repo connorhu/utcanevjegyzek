@@ -4,5 +4,17 @@
             "Vizsl\u00e1s",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kast\u00e9lykert",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Park",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

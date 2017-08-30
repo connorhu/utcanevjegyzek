@@ -4,5 +4,52 @@
             "Tekenye",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e1dony",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Geszteny\u00e9s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6zt\u00e1rsas\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00f3ri",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nagyr\u00e9t",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Orgona",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6lgyv\u00e1ri",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,12 @@
             "Zomba",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Szentg\u00e1l",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

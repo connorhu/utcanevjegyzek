@@ -4,5 +4,17 @@
             "Szilv\u00e1s",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hajnal",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

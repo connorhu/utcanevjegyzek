@@ -1,0 +1,59 @@
+{
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bihari",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e9p\u00e1llom\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00f6ngy\u00f6s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Horv\u00e1th J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u0151szegi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nagycs\u00f6m\u00f6tei",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nemescs\u00f3i",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tan\u00e1cs",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tolnai S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
+}

@@ -4,5 +4,12 @@
             "Ormosb\u00e1nya",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Vas\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

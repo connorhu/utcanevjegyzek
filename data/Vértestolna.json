@@ -4,5 +4,37 @@
             "V\u00e9rtestolna",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kenderes",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kert",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tardosi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tarj\u00e1ni",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

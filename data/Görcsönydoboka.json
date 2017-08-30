@@ -4,5 +4,22 @@
             "G\u00f6rcs\u00f6nydoboka",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Csele",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nagyfa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Fl\u00f3ri\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

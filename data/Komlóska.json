@@ -4,5 +4,57 @@
             "Koml\u00f3ska",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e1nya",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Ben\u0151tt, nehezen j\u00e1rhat\u00f3!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kisposta",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3voda",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Pusztav\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Solymos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Subanya",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Szkalka",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        }
+    ]
 }

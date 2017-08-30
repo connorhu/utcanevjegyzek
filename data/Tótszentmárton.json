@@ -4,5 +4,12 @@
             "T\u00f3tszentm\u00e1rton",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Szent M\u00e1rton",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

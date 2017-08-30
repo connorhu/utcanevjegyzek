@@ -4,5 +4,72 @@
             "Zalamerenye",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Cs\u00e1rda",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Csere p\u00fap \u2013 Zalamerenye \u00f6sszek\u00f6t\u0151",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "fah\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Ibolya",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Irt\u00e1si",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kil\u00e1t\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00f3kus",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Park",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Orb\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Nagyszekeres",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alm\u00e1skertek",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

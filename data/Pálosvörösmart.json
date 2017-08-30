@@ -4,5 +4,57 @@
             "P\u00e1losv\u00f6r\u00f6smart",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bocskai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c9p\u00edt\u0151k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Hagy\u00f3ka",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Ifj\u00fas\u00e1g",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kert\u00e9sz",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1trai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Nyilad\u00e9k",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Nyomvonal, nincs \u00f6sv\u00e9ny",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "\u00datt\u00f6r\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

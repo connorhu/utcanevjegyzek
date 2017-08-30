@@ -4,5 +4,27 @@
             "Hegyh\u00e1tszentp\u00e9ter",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Katon\u00e1k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vaskapu",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,12 @@
             "Cs\u00f6de",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Erd\u00e9sz",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

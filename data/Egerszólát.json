@@ -4,5 +4,12 @@
             "Egersz\u00f3l\u00e1t",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "II. R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Gy\u00f6rgytarl\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bodrogk\u00f6zi Gazdas\u00e1gi Vas\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Dork\u00f3i",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Mosott\u00f3",
+            "kind": "d\u0171l\u0151",
+            "post_code": 0
+        }
+    ]
 }

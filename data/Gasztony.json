@@ -4,5 +4,67 @@
             "Gasztony",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Border AT-HU",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Bosny\u00e1k",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00f6pszer",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u0151s\u00f6k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Kuruc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00d3szegi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u0171k",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajvil\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

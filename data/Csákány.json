@@ -4,5 +4,22 @@
             "Cs\u00e1k\u00e1ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Besz\u00e1ntva ?",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Leromlott h\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Nyilad\u00e9k",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

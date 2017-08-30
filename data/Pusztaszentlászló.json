@@ -4,5 +4,37 @@
             "Pusztaszentl\u00e1szl\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3telep",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fels\u0151telep",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tank\u00e1llom\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

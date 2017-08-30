@@ -4,5 +4,12 @@
             "Tornak\u00e1polna",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Erd\u0151alja",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

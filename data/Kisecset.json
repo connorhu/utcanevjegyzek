@@ -4,5 +4,22 @@
             "Kisecset",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Gerinc",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f3parti",
+            "kind": "s\u00e9t\u00e1ny",
+            "post_code": 0
+        },
+        {
+            "name": "Vadvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

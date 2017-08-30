@@ -4,5 +4,12 @@
             "Kacs\u00f3ta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Rakacaszend",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kertalja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kopasz",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,17 @@
             "Dr\u00e1vacsepely",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "D\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

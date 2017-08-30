@@ -4,5 +4,27 @@
             "Sz\u00f3l\u00e1d",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nehezen j\u00e1rhat\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "\u0150sz\u00f6di",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00f3l\u00e1di",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

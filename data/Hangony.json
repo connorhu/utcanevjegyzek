@@ -4,5 +4,27 @@
             "Hangony",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "HU,SK",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Partiz\u00e1n",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Vermes-v\u00f6lgy",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Vizes-v\u00f6lgy",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

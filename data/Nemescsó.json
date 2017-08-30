@@ -4,5 +4,37 @@
             "Nemescs\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bak\u00f3 J\u00f3zsef",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u0151szegi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u0151szeg-T\u00f6m\u00f6rd ker\u00e9kp\u00e1r\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e9terfy S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

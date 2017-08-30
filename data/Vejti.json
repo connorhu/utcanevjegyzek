@@ -4,5 +4,22 @@
             "Vejti",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rv\u00edzv\u00e9delmi t\u00f6lt\u00e9s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

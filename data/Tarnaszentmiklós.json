@@ -4,5 +4,17 @@
             "Tarnaszentmikl\u00f3s",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e9lyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

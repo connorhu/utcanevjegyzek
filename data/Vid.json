@@ -4,5 +4,12 @@
             "Vid",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00datt\u00f6r\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

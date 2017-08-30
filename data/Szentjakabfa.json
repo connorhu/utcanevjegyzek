@@ -4,5 +4,27 @@
             "Szentjakabfa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Dobog\u00f3",
+            "kind": "sz\u0151l\u0151hegy",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kenderf\u00f6ldi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

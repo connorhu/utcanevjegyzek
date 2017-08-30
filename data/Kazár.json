@@ -8,5 +8,32 @@
             "Kaz\u00e1r",
             "Mizserfa"
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e1ny\u00e1sz",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Ciprus",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e1rsfa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Kaz\u00e1ri",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Zagyva - Sz\u00e9kv\u00f6lgy b\u00e1nyavas\u00fat nyomvonala",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

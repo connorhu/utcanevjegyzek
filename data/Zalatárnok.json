@@ -4,5 +4,12 @@
             "Zalat\u00e1rnok",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "V\u00e1licka",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

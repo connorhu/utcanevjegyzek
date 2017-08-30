@@ -4,5 +4,27 @@
             "Magyarn\u00e1dalja",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Magyarn\u00e1daljai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vasaljai",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

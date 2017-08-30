@@ -4,5 +4,37 @@
             "Epl\u00e9ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1mos-hegyi",
+            "kind": "vas\u00fatsor",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e1nya",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00fazavir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gy\u00f6ngyvir\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kankalin",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Veszpr\u00e9mi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

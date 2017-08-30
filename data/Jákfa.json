@@ -4,5 +4,37 @@
             "J\u00e1kfa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Fels\u0151patyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00f6vesdi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi \u00fatca",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6lgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zs\u00e9denyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

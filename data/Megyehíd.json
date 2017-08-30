@@ -4,5 +4,37 @@
             "Megyeh\u00edd",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bog\u00e1rdy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bog\u00e1ti",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Damjanich",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1rdy",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

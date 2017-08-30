@@ -4,5 +4,17 @@
             "Kisbudm\u00e9r",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00f3ly-Vill\u00e1ny ker\u00e9kp\u00e1r\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

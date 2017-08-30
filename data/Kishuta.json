@@ -4,5 +4,17 @@
             "Kishuta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "S\u00e1gv\u00e1ri Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Somhegyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

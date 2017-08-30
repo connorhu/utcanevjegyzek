@@ -4,5 +4,157 @@
             "Lip\u00f3t",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Alpesi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bar\u00e1ts\u00e1g-liget",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "fasor",
+            "post_code": 0
+        },
+        {
+            "name": "Buzog\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Cserehely",
+            "kind": "\u00fcd\u00fcl\u0151-sor",
+            "post_code": 0
+        },
+        {
+            "name": "Delel\u0151",
+            "kind": "\u00fcd\u00fcl\u0151-sor",
+            "post_code": 0
+        },
+        {
+            "name": "Ezerj\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Gomb\u00f3cosi z\u00e1r\u00e1s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Gyepf\u00f6ldi",
+            "kind": "\u00fcd\u00fcl\u0151-sor",
+            "post_code": 0
+        },
+        {
+            "name": "Hatvanasi buk\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00e9derv\u00e1r - Lip\u00f3t Bicikli\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Holt-Duna",
+            "kind": "\u00fcd\u00fcl\u0151-sor",
+            "post_code": 0
+        },
+        {
+            "name": "Kalapszigeti t\u00f6lt\u0151buk\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kenderes-kert",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kengy\u00e1t\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kerekest\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Malom-mez\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Remeti \u00e1g",
+            "kind": "\u00fcd\u00fcl\u0151-sor",
+            "post_code": 0
+        },
+        {
+            "name": "Renyhedomb",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9naf\u0171",
+            "kind": "\u00fcd\u00fcl\u0151-sor",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00fcrkei t\u00f6lt\u0151buk\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f3part",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajszigeti buk\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edztorony",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

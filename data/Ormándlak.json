@@ -4,5 +4,17 @@
             "Orm\u00e1ndlak",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Temet\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edzm\u0171",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

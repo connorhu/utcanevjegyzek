@@ -4,5 +4,42 @@
             "Garabonc",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Balatonmagyar\u00f3d",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Csere p\u00fap \u2013 Zalamerenye \u00f6sszek\u00f6t\u0151",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kis",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Merenyei",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

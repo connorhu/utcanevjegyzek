@@ -4,5 +4,57 @@
             "Ipolydam\u00e1sd",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rv\u00e9delmi t\u00f6lt\u00e9s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Brjeska",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Brjeska nyomvonal",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kert",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e9ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e9gi kisvas\u00fat: Brjeska-b\u00e1nyai nyomvonal",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e9gi kisvas\u00fat: Dolinka \u0096Cs\u00e1k-hegy nyomvonal",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

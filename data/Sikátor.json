@@ -4,5 +4,17 @@
             "Sik\u00e1tor",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Rundl",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

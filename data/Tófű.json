@@ -4,5 +4,12 @@
             "T\u00f3f\u0171",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

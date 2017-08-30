@@ -4,5 +4,27 @@
             "Kemestar\u00f3dfa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Cs\u00e1k\u00e1nyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kemesm\u00e1li",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Teleki",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

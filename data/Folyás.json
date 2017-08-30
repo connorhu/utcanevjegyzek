@@ -4,5 +4,62 @@
             "Foly\u00e1s",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bolyai J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Felszabadul\u00e1s",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Futrinka",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00e1llai \u00c9va",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Karik\u00e1s Frigyes",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lenin",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e1ci Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6s Hadsereg",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zalka M\u00e1t\u00e9",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

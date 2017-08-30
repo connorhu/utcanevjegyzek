@@ -1,0 +1,34 @@
+{
+    "streets": [
+        {
+            "name": "Ap\u00e1cai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Beliczey",
+            "kind": "major",
+            "post_code": 0
+        },
+        {
+            "name": "Darvas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Gerend\u00e1si",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Mez\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
+}

@@ -4,5 +4,17 @@
             "Veszpr\u00e9mfajsz",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e1z",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

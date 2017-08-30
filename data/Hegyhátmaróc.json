@@ -4,5 +4,12 @@
             "Hegyh\u00e1tmar\u00f3c",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Hunyadi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,32 @@
             "Koml\u00f3dt\u00f3tfalu",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1rv\u00edzv\u00e9delmi t\u00f6lt\u00e9s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "H\u00edd",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Satu Mare - Feh\u00e9rgyarmat",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

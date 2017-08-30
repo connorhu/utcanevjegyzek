@@ -4,5 +4,32 @@
             "Szakm\u00e1r",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bajcsy Zsilinszky",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fels\u0151erek",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szent Istv\u00e1n kir\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

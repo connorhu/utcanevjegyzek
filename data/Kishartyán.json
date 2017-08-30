@@ -4,5 +4,32 @@
             "Kisharty\u00e1n",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "D\u00f3zsa",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsa Ferenc",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Tug\u00e1r",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,32 @@
             "Csengersima",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "\u00c1rv\u00edzv\u00e9delmi t\u00f6lt\u00e9s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00e9citelep",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kod\u00e1ly",
+            "kind": "k\u00f6z",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

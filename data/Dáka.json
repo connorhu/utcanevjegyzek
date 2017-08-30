@@ -4,5 +4,17 @@
             "D\u00e1ka",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pod\u00e1ri",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi Mikl\u00f3s",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

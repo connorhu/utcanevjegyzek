@@ -4,5 +4,12 @@
             "Pr\u00fcgy",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pr\u00fcgyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

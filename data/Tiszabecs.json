@@ -4,5 +4,12 @@
             "Tiszabecs",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "K\u00f6lcsey",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "F\u00fcz\u00e9rkajata",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Felszabad\u00edt\u00f3k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        }
+    ]
 }

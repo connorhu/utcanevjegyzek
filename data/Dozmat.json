@@ -4,5 +4,32 @@
             "Dozmat",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Fiumei",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Lovas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pinkaf\u0151i",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00f6lgyfa",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

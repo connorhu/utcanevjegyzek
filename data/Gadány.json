@@ -4,5 +4,12 @@
             "Gad\u00e1ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Temet\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

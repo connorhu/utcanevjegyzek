@@ -4,5 +4,32 @@
             "Geszt",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Egykori kocsibej\u00e1r\u00f3",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Ikl\u00f3dpuszta",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kissziki h\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Temet\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Tisza-kript\u00e1hoz aszfaltozott",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

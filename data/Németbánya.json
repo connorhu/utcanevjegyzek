@@ -4,5 +4,27 @@
             "N\u00e9metb\u00e1nya",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bor\u00f3ka",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tiszafa",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

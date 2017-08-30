@@ -4,5 +4,17 @@
             "Velem\u00e9r",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Border SI-HU",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

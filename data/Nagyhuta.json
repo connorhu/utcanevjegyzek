@@ -4,5 +4,17 @@
             "Nagyhuta",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "OKT",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1fr\u00e1ny tan\u00f6sv\u00e9ny",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

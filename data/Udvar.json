@@ -4,5 +4,27 @@
             "Udvar",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "All pasports car | Bus",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "EU; EEA; CH",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "HGV",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

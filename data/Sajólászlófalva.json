@@ -4,5 +4,12 @@
             "Saj\u00f3l\u00e1szl\u00f3falva",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "V\u00f6r\u00f6smarty",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

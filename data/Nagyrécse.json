@@ -4,5 +4,12 @@
             "Nagyr\u00e9cse",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bartulahegy",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

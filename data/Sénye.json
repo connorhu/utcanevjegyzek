@@ -4,5 +4,22 @@
             "S\u00e9nye",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bezer\u00e9dy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

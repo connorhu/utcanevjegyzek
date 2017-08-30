@@ -4,5 +4,22 @@
             "Z\u00e1k\u00e1nyfalu",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kisperj\u00e9s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

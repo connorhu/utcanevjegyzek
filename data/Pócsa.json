@@ -4,5 +4,12 @@
             "P\u00f3csa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

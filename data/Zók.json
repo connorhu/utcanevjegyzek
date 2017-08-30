@@ -4,5 +4,17 @@
             "Z\u00f3k",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Arany J\u00e1nos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1zd\u00e1ny",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

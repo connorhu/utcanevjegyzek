@@ -4,5 +4,12 @@
             "Pusztaap\u00e1ti",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ak\u00e1cos",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

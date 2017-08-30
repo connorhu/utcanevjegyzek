@@ -4,5 +4,107 @@
             "S\u00e1ly",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "(cserj\u00e9s-boz\u00f3tos)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "dagony\u00e1s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "E\u00f6tv\u00f6s",
+            "kind": "telep",
+            "post_code": 0
+        },
+        {
+            "name": "Felszabad\u00edt\u00f3k",
+            "kind": "\u00fatja",
+            "post_code": 0
+        },
+        {
+            "name": "Geszti",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "gyalogh\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Mocsoly\u00e1si",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00e1r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u0150sz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "telep",
+            "post_code": 0
+        },
+        {
+            "name": "Pincesor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "pocsoly\u00e1s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsav\u00e1ri",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1gv\u00e1ri Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tavasz",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e9l",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "tet\u0151, Latorv\u00e1rt\u00f3l keletre",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "v\u00f6lgy, Latorv\u00e1rt\u00f3l keletre",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

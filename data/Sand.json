@@ -4,5 +4,17 @@
             "Sand",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kanizsai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00fcrt",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

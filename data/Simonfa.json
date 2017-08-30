@@ -4,5 +4,27 @@
             "Simonfa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00e1teresz",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "mag\u00e1nter\u00fclet",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

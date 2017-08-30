@@ -4,5 +4,27 @@
             "Kemenesk\u00e1polna",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kurgy\u00f3",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szabads\u00e1g",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00fcnd\u00e9rv\u00f6lgyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

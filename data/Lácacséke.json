@@ -4,5 +4,47 @@
             "L\u00e1cacs\u00e9ke",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Buglyoska",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "El\u00e1gaz\u00e1s-Zempl\u00e9nag\u00e1rd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Malom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Monyha",
+            "kind": "tanya",
+            "post_code": 0
+        },
+        {
+            "name": "Nemes",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6r\u00f6s Hadsereg",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

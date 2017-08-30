@@ -4,5 +4,32 @@
             "Lisz\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Hegyalja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kanizsai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00f3richelyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00fcmegi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

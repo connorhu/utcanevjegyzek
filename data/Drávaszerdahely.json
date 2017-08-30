@@ -4,5 +4,12 @@
             "Dr\u00e1vaszerdahely",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

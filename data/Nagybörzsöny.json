@@ -4,5 +4,112 @@
             "Nagyb\u00f6rzs\u00f6ny",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Dr\u00f3tk\u00f6t\u00e9lp\u00e1lya (j\u00e1t\u00e9k)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyalja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hunyadi",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "In\u00f3ci v\u00e1g\u00e1s",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kammerhof",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kid\u0151lt f\u00e1k! Nehezen j\u00e1rhat\u00f3!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nagyhideghegyi szerviz\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pince",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e9gi vas\u00fat, volt Kammerhof-vonal",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Romos h\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1gv\u00e1ri",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Sz\u00e9chenyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Templom",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00f6lgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "volt Kammerhofi viadukt",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "volt Kammerhof-vonal",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

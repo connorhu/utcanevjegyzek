@@ -4,5 +4,27 @@
             "Isztim\u00e9r",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00fckk\u00f6s-\u00e1rok",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Burok-v\u00f6lgy",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "felm\u00e9rend\u0151",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Mell\u00e1r-d\u0171l\u0151",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

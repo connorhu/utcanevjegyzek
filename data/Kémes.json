@@ -4,5 +4,37 @@
             "K\u00e9mes",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "K\u00e9mesi g\u00e1t\u0151rj\u00e1r\u00e1s t\u00f6lt\u00e9sszakasza, P\u00e9csi-v\u00edz bal",
+            "kind": "part",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vas\u00fat",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00e9rtan\u00fak",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

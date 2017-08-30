@@ -4,5 +4,32 @@
             "Hetvehely",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ben\u0151tt, szinte j\u00e1rhatatlan",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ny\u00e1ras-v\u00f6lgy",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e1s-v\u00f6lgy",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "t\u00f6lt\u00e9s",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

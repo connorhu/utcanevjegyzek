@@ -4,5 +4,32 @@
             "P\u00e1pakov\u00e1csi",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Devecseri",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Ilona",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kis",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "P\u00e1pai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e9d",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

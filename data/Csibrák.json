@@ -4,5 +4,57 @@
             "Csibr\u00e1k",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ady Endre",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00c1llom\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "B\u00e9k\u00e9si",
+            "kind": "tanya",
+            "post_code": 0
+        },
+        {
+            "name": "Erd\u0151sor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Fels\u0151",
+            "kind": "sor",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kast\u00e9lysor",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00fcltelek",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics Mih\u00e1ly",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vad\u00e1szh\u00e1z",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

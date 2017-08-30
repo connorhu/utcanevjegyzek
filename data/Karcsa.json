@@ -4,5 +4,12 @@
             "Karcsa",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Felszabadul\u00e1s",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

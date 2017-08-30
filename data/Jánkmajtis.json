@@ -4,5 +4,12 @@
             "J\u00e1nkmajtis",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

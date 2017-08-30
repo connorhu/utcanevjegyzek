@@ -4,5 +4,17 @@
             "Zalaap\u00e1ti",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9ke",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R76",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

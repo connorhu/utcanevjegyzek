@@ -4,5 +4,12 @@
             "Dr\u00e1vatam\u00e1si",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

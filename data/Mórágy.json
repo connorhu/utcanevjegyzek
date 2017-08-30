@@ -4,5 +4,17 @@
             "M\u00f3r\u00e1gy",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Als\u00f3n\u00e1nai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

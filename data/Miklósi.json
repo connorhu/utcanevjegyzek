@@ -4,5 +4,42 @@
             "Mikl\u00f3si",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "ben\u0151tt!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00e1jus 1.",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00f3zsadomb",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "S\u00e9tat\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

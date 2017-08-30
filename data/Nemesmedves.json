@@ -4,5 +4,17 @@
             "Nemesmedves",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Border AT-HU",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

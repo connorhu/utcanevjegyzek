@@ -4,5 +4,22 @@
             "D\u00e1m\u00f3c",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "El\u00e1gaz\u00e1s-Zempl\u00e9nag\u00e1rd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u0150rhegy",
+            "kind": "tanya",
+            "post_code": 0
+        }
+    ]
 }

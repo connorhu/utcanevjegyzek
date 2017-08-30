@@ -4,5 +4,22 @@
             "K\u00f6r\u00f6sszak\u00e1l",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Gr\u00f3f Tisza Istv\u00e1n h\u00edd",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Piac",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        }
+    ]
 }

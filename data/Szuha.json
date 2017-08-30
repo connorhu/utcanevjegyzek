@@ -4,5 +4,62 @@
             "Szuha",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Alm\u00e1si",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Bem",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Bochidi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Galyai",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Pet\u0151fi S\u00e1ndor",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Rudolftanyai-\u00fat",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Szorospataki",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e9rfy B\u00e9la",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Vasas",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "V\u00edzm\u0171h\u00f6z",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,37 @@
             "G\u00e1borj\u00e1n",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "a t\u00f6lt\u00e9s alatt",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M4",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "T\u00e1ncsics",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Utt\u00f6r\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

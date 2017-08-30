@@ -4,5 +4,17 @@
             "Pinkamindszent",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Ben\u0151tt, boz\u00f3tos!",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Kov\u00e1cshida",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bels\u0151sz\u00f6d\u00f6nyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "M\u00f3ricz Zsigmond",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

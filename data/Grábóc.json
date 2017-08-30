@@ -4,5 +4,27 @@
             "Gr\u00e1b\u00f3c",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "De\u00e1k Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00f6sv\u00e9ny DK-nek",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

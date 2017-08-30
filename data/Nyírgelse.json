@@ -4,5 +4,17 @@
             "Ny\u00edrgelse",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bencz\u00far",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vasv\u00e1ri P\u00e1l",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

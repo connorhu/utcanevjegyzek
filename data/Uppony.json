@@ -4,5 +4,22 @@
             "Uppony",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Istv\u00e1n",
+            "kind": "telep",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

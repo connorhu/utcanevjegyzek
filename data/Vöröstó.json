@@ -4,5 +4,17 @@
             "V\u00f6r\u00f6st\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "st\u00e1ci\u00f3",
+            "kind": "\u00fat",
+            "post_code": 0
+        }
+    ]
 }

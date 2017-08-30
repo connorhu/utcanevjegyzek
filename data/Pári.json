@@ -4,5 +4,37 @@
             "P\u00e1ri",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Gyulaji",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kis",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth Lajos",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Nagy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Tam\u00e1si",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "\u00dajv\u00e1ros",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

@@ -4,5 +4,22 @@
             "Kast\u00e9lyosdomb\u00f3",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Potonyi",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Z\u00e1dori",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

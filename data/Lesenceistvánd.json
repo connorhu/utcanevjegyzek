@@ -4,5 +4,62 @@
             "Lesenceistv\u00e1nd",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "B\u00e9dia",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Csarabos tan\u00f6sv\u00e9ny (piros U)",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "D\u00f3zsa",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Hegyalja",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3kai M\u00f3r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "J\u00f3zsef Attila",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Kossuth",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "K\u00fcltelek",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Nemess Imre",
+            "kind": "t\u00e9r",
+            "post_code": 0
+        },
+        {
+            "name": "Zr\u00ednyi",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }

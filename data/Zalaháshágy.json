@@ -4,5 +4,17 @@
             "Zalah\u00e1sh\u00e1gy",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "D\u00f3zsa Gy\u00f6rgy",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Szent M\u00e1rton t\u00fara\u00fatvonal",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

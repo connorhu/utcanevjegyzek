@@ -4,5 +4,62 @@
             "Zsira",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Csepregi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Fl\u00f3ri\u00e1n",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "F\u0151",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Golf",
+            "kind": "k\u00f6r\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "G\u00fcterweg Nikitsch-Und",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Locsm\u00e1ndi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "L\u0151v\u00e9r",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "R\u00e1k\u00f3czi Ferenc",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Salamonfai",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Undi",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Vasf\u00fcgg\u00f6ny t\u00fara\u00fat",
+            "kind": "",
+            "post_code": 0
+        }
+    ]
 }

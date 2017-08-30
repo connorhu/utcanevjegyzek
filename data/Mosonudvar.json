@@ -4,5 +4,32 @@
             "Mosonudvar",
             null
         ]
-    }
+    },
+    "streets": [
+        {
+            "name": "Bereki",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Esze Tam\u00e1s",
+            "kind": "utca",
+            "post_code": 0
+        },
+        {
+            "name": "Halad\u00e1sutca",
+            "kind": "",
+            "post_code": 0
+        },
+        {
+            "name": "Krisztina",
+            "kind": "\u00fat",
+            "post_code": 0
+        },
+        {
+            "name": "Verseny",
+            "kind": "utca",
+            "post_code": 0
+        }
+    ]
 }
